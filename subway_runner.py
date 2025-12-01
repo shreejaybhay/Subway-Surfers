@@ -1,4 +1,4 @@
-import pygame
+import pygame #if pygame is not installing then use pygame-ce
 import random
 import sys
 import math
